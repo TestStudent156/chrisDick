@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tarot Karten Sammler</string>
+    <string name="main_activity_title">Willkommen beim Tarot Karten Sammler</string>
+    <string name="card_collection_activity_title">Ihre Karten Sammlung</string>
+    <string name="card_detail_activity_title">Karten Details</string>
+    <string name="future_prediction_activity_title">Zukunft Vorhersage</string>
+    <string name="add_card_button">Karte hinzufügen</string>
+    <string name="check_set_completion_button">Set Vollständigkeit prüfen</string>
+    <string name="predict_future_button">Zukunft vorhersagen</string>
+    <string name="card_collection_updated_message">Karten Sammlung aktualisiert</string>
+    <string name="set_completed_message">Set ist komplett</string>
+</resources>
